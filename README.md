@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mamdouh Mohamed Abduljalil</h1>
-<h3 align="center">A passionate junior bioinformatician (with a CS degree)</h3>
+<h3 align="center">A passionate Data scientist</h3>
 
-- 🌱 I’m currently learning **Advanced Bioinformatics, ML & Data Science**
+- 🌱 I’m currently learning **ML & Data Science**
 
-- 👯 I’m looking to collaborate on **anything I'd be able to contribute to and gain experience from :)**
+- 👯 I’m looking to collaborate on **anything I'd be able to contribute to and have fun doing :)**
 
 - 💬 Ask me about **music, maybe.**
 
