@@ -1,68 +1,39 @@
-# Mamdouh Mohamed Abduljalil
+<div align="center">
 
-Software developer building cross-platform products and reproducible computational workflows, with a background in bioinformatics and a growing focus on backend systems.
+# Mamdouh M. Aly
 
-I work across two serious tracks: product engineering, currently centered on Flutter applications and their supporting systems, and computational biology research built around reproducible analysis. Software engineering is my primary professional direction, while bioinformatics remains a major part of how I analyze problems, structure evidence, and build reliable workflows.
+**Software engineering · Product delivery**  
+Computational biology research
 
-## Current work
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamdouh-m-aly)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:MamdouhMAly@outlook.com)
 
-- Software developer at **Blyxon** since April 2024, working primarily with Flutter and Firebase.
-- Contribute to products from initial development through testing, release, and maintenance.
-- Work across UI implementation, application state, data and service integration, debugging, and architectural refinement.
-- Maintain mobile build and release workflows across Android and iOS, including GitHub Actions, Google Play internal testing, TestFlight distribution, Gradle, Kotlin, signing, and related build-system work.
-- Participate in **OCCAMY** since June 2024, an independent volunteer research collective developing computational methods, analyses, and tools across engineering and biology-adjacent problems.
+</div>
 
-## Engineering direction
+---
 
-My demonstrated production experience is strongest in cross-platform product development. I am deliberately expanding toward backend and broader software-engineering responsibilities, especially where maintainability, delivery, and clear boundaries matter.
+## Software engineering
 
-Currently developing depth in:
+I build and ship cross-platform products and maintain the workflows behind their delivery. My current production work includes `Flutter` and `Dart` applications, `Firebase` integration, and Android and iOS build and release automation with `GitHub Actions`.
 
-- PostgreSQL and Supabase, including authentication, storage, database design, and row-level security considerations.
-- API boundaries and maintainable client/server separation.
-- Go as a possible backend or BFF layer.
-- System design, application architecture, CI/CD, and release engineering.
+## Computational biology research
 
-I tend to favor vertical feature slices, thin and replaceable data-access layers, practical trade-offs, and code that can evolve without unnecessary rewrites.
+Separately from my product work, I contribute to volunteer research involving proteomics and transcriptomics. I use `R`, `Bioconductor`, and `Quarto` to develop reproducible workflows for analysis, enrichment, visualization, and reporting.
 
-## Representative public work
+## Areas of work
 
-Most of my current professional engineering and research work is private or still in progress. The public repositories on this profile mainly show earlier academic and programming work, so I treat them as context rather than as a complete portfolio.
+| Area | Current experience |
+| :--- | :--- |
+| **Application engineering** | Flutter and Dart; UI, state management, client-side architecture, and Firebase/API integration |
+| **Delivery automation** | GitHub Actions; Android and iOS builds, signing, internal testing, and release distribution |
+| **Computational research** | R, Bioconductor, and Quarto; omics analysis, enrichment, visualization, and reproducible reporting |
 
-- [`BLAST-Project`](https://github.com/MD07-M/BLAST-Project) — bioinformatics coursework around sequence-alignment concepts, reflecting the early foundation of my computational biology path.
-- [`-NussinovAlgo`](https://github.com/MD07-M/-NussinovAlgo) — forked Python work related to RNA secondary-structure prediction coursework.
-- [`OSProject`](https://github.com/MD07-M/OSProject) — C systems-programming coursework from an earlier stage of my computer-science training.
+> **Current direction:** Expanding into PostgreSQL and Supabase to develop deeper experience with data and backend systems.
 
-## Technical toolkit
+---
 
-| Function | Tools and technologies |
-| --- | --- |
-| Cross-platform product development | Flutter, Dart, Firebase |
-| Mobile delivery | Android, iOS, Gradle, Kotlin, signing, TestFlight, Google Play internal testing |
-| Automation and release engineering | GitHub Actions, CI/CD, Git |
-| Backend direction | PostgreSQL, Supabase, REST APIs, Go, system design |
-| Computational analysis | R, Quarto, Bioconductor ecosystem, reproducible reporting |
+<div align="center">
 
-## Computational biology and research
+[LinkedIn](https://www.linkedin.com/in/mamdouh-m-aly) · [Email](mailto:MamdouhMAly@outlook.com)
 
-I earned a BSc in Computer and Information Sciences, specializing in Bioinformatics, from Ain Shams University in 2023. My research and analytical work is computational and informatics-driven: cleaning data, evaluating analysis choices, building reproducible workflows, and translating results into reports that can be reviewed and extended.
-
-Areas I work with or actively develop in include:
-
-- Proteomics, transcriptomics, single-cell omics, metabolomics, and multi-omics integration.
-- Spatial bioinformatics as a developing area.
-- Differential-expression and differential-abundance analysis.
-- Pathway and gene-set enrichment.
-- Transcription-factor and signaling-activity inference.
-- Data cleaning, quality control, harmonization, statistical analysis, visualization, and biological interpretation.
-
-One research paper has been submitted; I do not describe it as published until that status is public and verifiable.
-
-## Location and opportunities
-
-Based in **Cairo, Egypt**. I am interested in international software-engineering and computational-biology opportunities, particularly in **Germany** and **Berlin**.
-
-## Connect
-
-- LinkedIn: [mamdouh-m-aly](https://www.linkedin.com/in/mamdouh-m-aly)
-- Email: [MamdouhMAly@outlook.com](mailto:MamdouhMAly@outlook.com)
+</div>
